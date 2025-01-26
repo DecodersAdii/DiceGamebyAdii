@@ -1,6 +1,6 @@
 # DiceGamebyAdii
 #This is a simple two player dice game.
-
+Dice Game
 Play here: https://decodersadii.github.io/DiceGamebyAdii/ or https://splendid-mooncake-b4cdd2.netlify.app/
 
 This game simply tests your risk appetite.
